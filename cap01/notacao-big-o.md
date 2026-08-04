@@ -40,4 +40,5 @@ A notação Big O estabele o tempo de execução para a pior hipótese.
 
 . O tempo de execução em algoritmos é expresso na notação Big O.
 
-. O (log n) é mais rápido do que O(n), e O(log n) fica ainda mais rápido conforme a lista aumenta.
+. O (log n) é mais rápido do que O(n), e 
+O(log n) fica ainda mais rápido conforme a lista aumenta.
