@@ -42,3 +42,12 @@ Com arrays é diferente. Você sabe o endereço de cada item. Por exemplo, supon
 Arrays são ótimos se você deseja ler elementos aleatórios, pois pode encontrar qualquer elemento instantaneamente em um array. 
 
 Na lista encadeada, os elementos não estão próximos uns dos outros, então você não pode calcular instantaneamente a posição de um elemento na memória - precisa ir ao primeiro elemento para encontrar o endereço do seguindo, então ir ao segundo elemento para encontrar o endereço do tericeor e seguir fazendo isso até chegar ao elemento que deseja.
+
+# Terminologia
+
+Os elementos em um array são numerados. Essa numeração começa no 0, não no 1. E não usa-se índice no lugar de posição.
+
+# Tempo de execução para operações comuns de arrays e listas
+![alt text](image-5.png)
+
+Por que é necessário tempo de execução O(n) para inserir um elemento em um array? Suponha que você queira inserir um elemento no começo de um array. Como faria isso? Quanto tempo levaria?
